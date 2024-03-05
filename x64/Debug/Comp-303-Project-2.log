@@ -1,0 +1,15 @@
+﻿  deque.cpp
+  function.cpp
+C:\Users\Zadok\Code\Comp 303\Comp-303-Project-2\function.h(5,6): error C2182: 'read_list': this use of 'void' is not valid
+C:\Users\Zadok\Code\Comp 303\Comp-303-Project-2\function.h(5,16): error C2065: 'Deque': undeclared identifier
+C:\Users\Zadok\Code\Comp 303\Comp-303-Project-2\function.h(5,22): error C2146: syntax error: missing ')' before identifier 'deque'
+C:\Users\Zadok\Code\Comp 303\Comp-303-Project-2\function.cpp(5,6): error C2365: 'read_list': redefinition; previous definition was 'data variable'
+C:\Users\Zadok\Code\Comp 303\Comp-303-Project-2\function.h(5,6): message : see declaration of 'read_list'
+  main.cpp
+C:\Users\Zadok\Code\Comp 303\Comp-303-Project-2\function.h(5,6): error C2182: 'read_list': this use of 'void' is not valid
+C:\Users\Zadok\Code\Comp 303\Comp-303-Project-2\function.h(5,16): error C2065: 'Deque': undeclared identifier
+C:\Users\Zadok\Code\Comp 303\Comp-303-Project-2\function.h(5,22): error C2146: syntax error: missing ')' before identifier 'deque'
+C:\Users\Zadok\Code\Comp 303\Comp-303-Project-2\main.cpp(12,2): error C2064: term does not evaluate to a function taking 1 arguments
+  Generating Code...
+C:\Users\Zadok\Code\Comp 303\Comp-303-Project-2\deque.cpp(88): error C4716: 'Deque::remove': must return a value
+C:\Users\Zadok\Code\Comp 303\Comp-303-Project-2\deque.cpp(95): error C4716: 'Deque::find': must return a value
