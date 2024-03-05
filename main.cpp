@@ -51,6 +51,7 @@ int main() {
     Stack stack2;
 
     //check if stack is empty
+    cout << "----------- Q2 -----------" << endl;
     cout << endl << "stack empty: " << stack2.empty() << endl;
 
     //insert into stack
